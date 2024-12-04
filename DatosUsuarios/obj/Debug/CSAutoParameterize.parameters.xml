@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MyDB-Web.config Connection String" description="MyDB Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Server=web2.abogados.or.cr;Port=3307;Database=abogados1;UserID=abogados1;Password=abogacristian$8400;AllowLoadLocalInfile=true" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jhernandez\\source\\repos\\DatosUsuarios\\DatosUsuarios\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyDB']/@connectionString" />
+  </parameter>
+  <parameter name="bdweb-Web.config Connection String" description="bdweb Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Server=web2.abogados.or.cr;Port=3307;Database=nuevo2_aboga;UserID=aboga22;Password=kl3uRH7515;AllowLoadLocalInfile=true" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jhernandez\\source\\repos\\DatosUsuarios\\DatosUsuarios\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='bdweb']/@connectionString" />
+  </parameter>
+  <parameter name="constr-Web.config Connection String" description="constr Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=marcascabcr.database.windows.net;Initial Catalog=users_webservice;user id=jhernandez;password=Jose1991*;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jhernandez\\source\\repos\\DatosUsuarios\\DatosUsuarios\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='constr']/@connectionString" />
+  </parameter>
+</parameters>

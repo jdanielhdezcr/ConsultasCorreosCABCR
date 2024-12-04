@@ -1,0 +1,92 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="DatosUsuarios.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Sistema de consulta de agremiados</title>
+    <%--css--%>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="datatables/datatables.min.css" rel="stylesheet" />
+    <link href="fontawesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="css/customStyleCss.css" rel="stylesheet" />
+    <%--js--%>
+    <script src="js/jquery-1.8.3.js"></script>
+    <script src="js/jquery.meanmenu.js"></script>
+
+    <script src="bootstrap/js/jquery.meanmenu.js"></script>
+    <script src="bootstrap/js/jquery-3.3.1.min.js"></script>
+    <script src="bootstrap/js/popper.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="bootstrap/js/jquery-3.3.1.min.js"></script>
+    <script src="cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+</head>
+<body>
+    <form id="formmaster" runat="server">
+        <div>
+        Bienvenido
+        <asp:LoginName ID="LoginName1" runat="server" Font-Bold="true" />
+        <br />
+        <br />
+        <asp:Label ID="lblLastLoginDate" runat="server" />
+        <asp:LoginStatus ID="LoginStatus1" runat="server" />
+    </div>
+        <div>
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <a class="navbar-brand" href="Default.aspx">
+                    <img src="images/logocole.png" width="30" height="30"/>
+                    Sistema teletrabajo
+                </a>
+                 <div align="center" CssClass="menu">
+                <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="false"
+        SiteMapProvider="SiteMap" />    
+                <asp:menu ID="Menu1" runat="server" CssClass="menu" DataSourceID="SiteMapDataSource1">
+
+ </asp:menu>
+                      </div>
+            </nav>
+        </div>
+
+
+        <!-- Main Content Placeholder -->
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <!-- Main Content Placeholder -->
+
+         <!-- Footer -->
+        <footer>
+            <div id="footer1" class="container-fluid">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                        <p>
+                            <asp:LinkButton class="footerlinks" ID="LinkButton6" runat="server" ForeColor="#0D2240">Departamento de Tecnologías</asp:LinkButton>
+                          
+                             </p>
+
+                    </div>
+
+                </div>
+            </div>
+            <div id="footer2" class="container-fluid">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                        <p style="color:whitesmoke">&copy 2022<a class="footerlinks" href="#" target="_blank"> Colegio de Abogados y Abogadas de Costa Rica</a></p>
+                    </div>
+                </div>
+            </div>
+
+        </footer>
+        <!-- ./Footer -->
+
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,253 @@
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\DatosUsuarios.dll.config
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\DatosUsuarios.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\DatosUsuarios.pdb
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csc.exe
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csc.exe.config
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csc.rsp
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csi.exe
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csi.exe.config
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csi.rsp
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.AppContext.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Console.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.Compression.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Net.Http.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.ValueTuple.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\vbc.exe
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\vbc.exe.config
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\vbc.rsp
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\VBCSCompiler.exe
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\MySql.Data.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\Newtonsoft.Json.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\Google.Protobuf.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\Zstandard.Net.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\BouncyCastle.Crypto.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\Ubiety.Dns.Core.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\Renci.SshNet.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Memory.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Buffers.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Hash.xxHash.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Numerics.Vectors.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\MySql.Data.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\Newtonsoft.Json.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\Google.Protobuf.pdb
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\Google.Protobuf.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\Renci.SshNet.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Memory.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Buffers.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Hash.xxHash.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Numerics.Vectors.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.csproj.AssemblyReference.cache
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.csproj.CopyComplete
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.dll
+C:\Users\Familia HdezArguedas\source\repos\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.pdb
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\DatosUsuarios.dll.config
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\DatosUsuarios.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\DatosUsuarios.pdb
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\csc.exe
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\csc.exe.config
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\csc.rsp
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\csi.exe
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\csi.exe.config
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\csi.rsp
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.AppContext.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Console.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Globalization.Calendars.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Net.Http.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Net.Sockets.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\vbc.exe
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\vbc.exe.config
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\vbc.rsp
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\MySql.Data.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\Newtonsoft.Json.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\Google.Protobuf.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\Zstandard.Net.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.Streams.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\BouncyCastle.Crypto.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\Ubiety.Dns.Core.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\Renci.SshNet.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\System.Memory.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\System.Buffers.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\K4os.Hash.xxHash.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\System.Numerics.Vectors.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\MySql.Data.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\Newtonsoft.Json.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\Google.Protobuf.pdb
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\Google.Protobuf.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.Streams.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\Renci.SshNet.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\System.Memory.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\System.Buffers.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\K4os.Hash.xxHash.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\System.Numerics.Vectors.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.csproj.AssemblyReference.cache
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.csproj.CoreCompileInputs.cache
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.csproj.CopyComplete
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.dll
+D:\OneDrive - Colegio de Abogados de Costa Rica\codigos y programas\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.pdb
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\DatosUsuarios.dll.config
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\DatosUsuarios.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\DatosUsuarios.pdb
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csc.exe
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csc.exe.config
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csc.rsp
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csi.exe
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csi.exe.config
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\csi.rsp
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.AppContext.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Console.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.Compression.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Net.Http.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.ValueTuple.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\vbc.exe
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\vbc.exe.config
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\vbc.rsp
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\VBCSCompiler.exe
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\Newtonsoft.Json.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\Google.Protobuf.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\Zstandard.Net.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\BouncyCastle.Crypto.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\Ubiety.Dns.Core.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\Renci.SshNet.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Memory.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Buffers.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Hash.xxHash.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Numerics.Vectors.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\MySql.Data.xml
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\Google.Protobuf.pdb
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\Google.Protobuf.xml
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\Renci.SshNet.xml
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Memory.xml
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Buffers.xml
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Compression.LZ4.xml
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\K4os.Hash.xxHash.xml
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Numerics.Vectors.xml
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.csproj.AssemblyReference.cache
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.csproj.CopyComplete
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.dll
+C:\Users\jhernandez\source\repos\DatosUsuarios\DatosUsuarios\obj\Release\DatosUsuarios.pdb

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="SVCCertificaciones.SVCCedula" CodeBehind="~/App_Code/SVCCedula.cs" %>

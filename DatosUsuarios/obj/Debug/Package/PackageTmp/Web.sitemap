@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	
+	<siteMapNode url="" title="Home" description="" roles ="*">
+		<siteMapNode url="~/Default.aspx" title="Inicio" description="Home Page" roles ="*" />
+		<siteMapNode url="~/UpdateWeb.aspx" title="Actualizar sitio web" description="Update Web" roles ="*" />
+		<siteMapNode url="~/Verify.aspx" title="Verificar usuarios" description="Get users data" roles ="*" />
+		<siteMapNode url="~/reloaddb.aspx" title="Actualizar base de CIJUL" description="upload CIJUL Database" roles ="*" />
+		<siteMapNode url="~/Adduser.aspx" title="Agregar usuarios" description="Add user" roles ="*" />
+		<siteMapNode url="~/Deleteuser.aspx" title="Eliminar usuarios" description="Delete User" roles ="*" />
+		<siteMapNode url="~/myprofile.aspx" title="Cambiar contraseña" description="My profile" roles ="*" />
+		<siteMapNode url="~/PACExpedientes.aspx" title="Expedientes con iniciales" description="Home Page" roles ="*" />
+		<siteMapNode url="~/suspenmorosidad.aspx" title="Expedientes sin iniciales" description="Home Page" roles ="*" />
+
+	</siteMapNode>
+	
+</siteMap>
