@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="DatosUsuarios.SiteMaster" %>
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="DatosUsuarios.SiteMaster" %>
 
 <!DOCTYPE html>
 <html>
@@ -7,36 +7,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sistema de consulta de agremiados</title>
 
-    <!-- Bootstrap CSS -->
-    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="datatables/datatables.min.css" rel="stylesheet" />
+<!-- Bootstrap CSS desde CDN -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" >
+
+<!-- FontAwesome CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet" />
+
+<!-- Estilos personalizados -->
+        <link href="datatables/datatables.min.css" rel="stylesheet" />
     <link href="fontawesome/css/font-awesome.css" rel="stylesheet" />
-    <link href="css/customStyleCss.css" rel="stylesheet" />
+<link href="css/customStyleCss.css" rel="stylesheet" />
 
-    <!-- jQuery y Bootstrap JS -->
+<!-- jQuery y Bootstrap JS desde CDN -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" ></script>
 
-    <script src="bootstrap/js/jquery-3.3.1.min.js"></script>
-    <script src="bootstrap/js/popper.min.js"></script>
-     
-    <script src="bootstrap/js/bootstrap.min.js"></script>
+
      
     <style>
         /* Sticky Footer Styles */
-        body {
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
-        }
+       /* Sticky Footer Styles */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  position: relative; /* Add this line */
+}
 
-        #main-content {
-            flex: 1;
-        }
+#main-content {
+  flex: 1;
+}
 
-        .footer {
-            background-color: #343a40;
-            color: white;
-            padding: 20px 0;
-        }
+.footer {
+  background-color: #343a40;
+  color: white;
+  padding: 20px 0;
+  position: absolute; /* Add this line */
+  bottom: 0; /* Add this line */
+  width: 100%; /* Add this line */
+}
     </style>
 
     <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
@@ -50,9 +59,9 @@
                     <img src="images/logocole.png" width="30" height="30" alt="Logo" />
                     Sistema Teletrabajo
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="false" />
                     <ul class="navbar-nav">
